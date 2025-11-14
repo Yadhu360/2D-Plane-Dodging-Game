@@ -69,7 +69,7 @@ Because of this, Unity Hub might say:
 If that happens, follow these steps:
 
 ✅ How to Fix
-
+--------------
 Open the extracted ZIP folder.
 
 Inside it, look for a second folder with the same project name.
