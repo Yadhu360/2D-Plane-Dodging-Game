@@ -1,2 +1,72 @@
-# 2D-Plane-Dodging-Game
-A Unity 2D arcade game featuring missile-tracking AI, collectible items, smooth player controls, and an endless survival loop.
+✈️ 2D Plane Dodging Game
+-------------------------
+A fast-paced 2D survival game where you control a small airplane and dodge heat-seeking missiles while collecting coins and lightning power-ups. Survive as long as you can and set a new high score!
+Built with Unity.
+-----------------
+
+
+🎮 Gameplay
+------------
+* Pilot your aircraft through an endless sky.
+
+* Avoid homing missiles that track the player.
+
+* Collect coins to increase your score.
+
+* Enjoy smooth controls, clean visuals, and satisfying effects.
+---------------------------------------------------------------
+
+
+✨ Features
+------------
+* 🛩️ Player-controlled 2D airplane
+
+* 🎯 Homing missile system
+
+* 💰 Coin collection
+
+* ⏱️ Timer & score UI
+
+* ☁️ Procedural cloud background
+
+* 🎨 Simple VFX trails and particle effects
+--------------------------------------------
+
+
+📸 Screenshots
+---------------
+(Add your image here)
+![Gameplay Screenshot](Assets/Screenshots/gameplay.png)
+
+
+Unity (2D URP/Standard)
+-----------------------
+* C# Scripts
+
+* Particle Systems for VFX
+
+* 📥 Installation
+
+* Clone this repository
+
+git clone https://github.com/yourusername/your-repo-name.git
+
+
+* Open the project in Unity 2021+
+
+* Press Play and enjoy!
+  
+
+📌 Roadmap (Optional)
+---------------------
+* Add shop & upgrades
+
+* Add different planes
+
+* Add leaderboards
+
+* Add pause & settings panel
+
+📄 License
+-----------
+This project is open-source. Feel free to use or modify it.
