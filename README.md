@@ -36,7 +36,7 @@ Built with Unity.
 📸 Screenshots
 ---------------
 ![Gameplay Screenshot](https://github.com/Yadhu360/2D-Plane-Dodging-Game/blob/da9e4a340a636e7cdd296c99189762edad7876cc/Screenshot%202025-11-12%20193232.png)
-
+![Gameplay Screenshot](https://github.com/Yadhu360/2D-Plane-Dodging-Game/blob/d5c71edf2a9c94f9b60e922b3a78084d708276b7/Screenshot%202025-11-14%20130015.png)
 Unity (2D URP/Standard)
 -----------------------
 * C# Scripts
