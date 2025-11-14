@@ -903,14 +903,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820089013}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 804ca80b478726241a5f6c14c9dc049f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  powerUps:
-  - {fileID: 8200128537614947840, guid: d20043dacb2b0a44b848bcee67a348ba, type: 3}
-  - {fileID: 1961056327997465498, guid: b2b1803ac794c07469e3a6246bbda2af, type: 3}
+  powerUps: []
   spawnRate: 10
   xMin: -4
   xMax: 4
