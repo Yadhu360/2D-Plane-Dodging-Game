@@ -47,15 +47,14 @@ Unity (2D URP/Standard)
 
 * Clone this repository
 
-  git clone https: https://github.com/Yadhu360/2D-Plane-Dodging-Game.git
-
+* git clone https: https://github.com/Yadhu360/2D-Plane-Dodging-Game.git
 
 * Open the project in Unity 2021+
 
 * Press Play and enjoy!
   
 
-📌 Roadmap (Optional)
+📌 Roadmap 
 ---------------------
 * Add shop & upgrades
 
